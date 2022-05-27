@@ -30,6 +30,8 @@ const About = () => {
                 <p>I'm a trumpet player in the University of Michigan Marching Band, and an avid video game enthusiast. I'm hoping to
                     pursue a career in video game development in the future.</p>
                 <p>Software engineering is my passion, whether it be for a website or a Game Jam! Creating something from nothing is a wonderful feeling.</p>
+                <a href="./SnyderResume2022CSE.pdf" title="" download className='flat-button'>DOWNLOAD MY RESUM&Eacute;</a>
+				
             </div>
             <div className='about-section'>
                 <section>

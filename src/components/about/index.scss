@@ -4,12 +4,14 @@
     top: 50%;
     transform: translateY(-50%);
     width: 35%;
+    max-height: 90%;
     vertical-align: middle;
     display: table-cell;
     -webkit-backface-visibility: hidden;
     outline-style: auto;
     outline-width: 3px;
     outline-color: #fff;
+    animation: fadeIn 1s 2.5s backwards;
 
     h2 {
         font-size: 50px;
@@ -42,6 +44,26 @@
     ul{
         padding-bottom: 10px;
         list-style: none;
+    }
+}
+
+.flat-button {
+    color: #ffd700;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    font-family: 'sans-serif';
+    text-decoration: none;
+    padding: 10px 18px;
+    border: 1px solid #ffd700;
+    margin-top: 25px;
+    float: left;
+    animation: fadeIn 1s 1.8s backwards;
+    white-space: nowrap;
+
+    &:hover {
+        background: #ffd700;
+        color: #333;
     }
 }
 
