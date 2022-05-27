@@ -1,8 +1,8 @@
 {
   "name": "portfolio-react",
   "version": "0.1.0",
+  "homepage": "https://Dennis1543.github.io",
   "private": true,
-  "homepage": "https://taylorsnyder.info",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
@@ -12,7 +12,6 @@
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^14.2.0",
     "animate.css": "^4.1.1",
-    "gh-pages": "^4.0.0",
     "gsap-trial": "^3.10.4",
     "loaders.css": "^0.1.2",
     "react": "^18.1.0",
@@ -52,6 +51,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^4.0.0",
     "nodemon": "^2.0.16"
   }
 }
