@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Taylor Snyder's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My portfolio, hosted on GitHub Pages, which can be found at [taylorsnyder.info](https://taylorsnyder.info).
 
-## Available Scripts
+(This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).)
 
-In the project directory, you can run:
+## Progress / Things To Add
 
-### `npm start`
+### Pre-Launch
+- ~~Fill out a readme and add it into the GitHub~~
+- ~~Get web hosting working through GitHub Pages, redirect through my domain (taylorsnyder.info)~~
+- ~~Upload old portfolio while working on the new and improved ReactJS version~~
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### General
+- ~~Upload V1.0 of new portfolio (React version)~~
+- ~~Add description / title into metadata~~
+- ~~Change favicon icon~~
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Welcome Page
+- Add something to the other side of the page (scrolling images/gifs of projects I've completed, maybe some pictures of me?)
 
-### `npm test`
+### About Page
+- ~~Fix some CSS sizing issues~~
+- ~~Add resume and download button~~
+- Add Scroll/Bounce animations and hover effects to headers on the right side with reverse color scheme (show yellow on hover instead of white)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Game Development Page
+- Host WebGL versions of 494 P1 and P2
+- Link to itch.io page for P3
+- Add gifs/images/descriptions to each of the projects
+- Possible code some little browser-based games in JS?
 
-### `npm run build`
+### Web Development Page
+- Link to dlmereader
+- Link to this GitHub
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Contact Page
+- Something to put on the other side of the page (video? map? game?)
