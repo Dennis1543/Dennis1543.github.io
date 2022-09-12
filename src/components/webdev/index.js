@@ -1,11 +1,11 @@
-import {useEffect, useRef, useState} from 'react'
+import {useEffect, useState} from 'react'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../animatedletters';
 import './index.scss'
 
 const WebDev = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
-    const refForm = useRef()
+
 
     useEffect( () => {
         setTimeout(() => {
@@ -25,7 +25,7 @@ const WebDev = () => {
                         idx={15}
                         />
                     </h1>
-                    <p> This section is a work in progress! </p>
+                    <p> This section is a work in progress! However, it will include THIS website, as well as <a href="https://www.dlmebook.com/" target="_blank" rel="noreferrer">The Directed Listening Model's E-book website</a>.</p>
                 </div>
         </div>
         <Loader type="pacman" />

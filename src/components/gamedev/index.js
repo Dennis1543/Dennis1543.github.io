@@ -1,11 +1,10 @@
-import {useEffect, useRef, useState} from 'react'
+import {useEffect, useState} from 'react'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../animatedletters';
 import './index.scss'
 
 const GameDev = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
-    const refForm = useRef()
 
     useEffect( () => {
         setTimeout(() => {
@@ -25,7 +24,8 @@ const GameDev = () => {
                         idx={15}
                         />
                     </h1>
-                    <p> This section is a work in progress! </p>
+                    <p> This section is a work in progress! If you'd like to see my video game portfolio, you can check out the deprecated version <a href="http://www-personal.umich.edu/~densnyde/" target="_blank" rel="noreferrer">here</a> while I'm working on transferring it over. Thanks for your patience!
+                    </p>
                 </div>
             </div>
             <Loader type="pacman" />
