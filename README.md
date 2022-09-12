@@ -25,13 +25,14 @@ My portfolio, hosted on GitHub Pages, which can be found at [taylorsnyder.info](
 - Add Scroll/Bounce animations and hover effects to headers on the right side with reverse color scheme (show yellow on hover instead of white)
 
 ### Game Development Page
+- (For now, added in old portfolio link while I work on migrating)
 - Host WebGL versions of 494 P1 and P2
 - Link to itch.io page for P3
 - Add gifs/images/descriptions to each of the projects
 - Possible code some little browser-based games in JS?
 
 ### Web Development Page
-- Link to dlmereader
+- Link to dlmereader (Temporarily linked to the page without description, will be added soon)
 - Link to this GitHub
 
 ### Contact Page
